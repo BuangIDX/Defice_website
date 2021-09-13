@@ -9,11 +9,11 @@ except ImportError:
 
 banner = """
   [×]===============================[×]
-  [×]=|                                                                       |=[×]
-  [×]=|          BUANG_IDX .CYBERS_IDX         |=[×]
-  [×]=|                                                                       |=[×]
+                                                                        |=[×]
+  [×]=|   BUANG_IDX .CYBERS_IDX   |=[×]
+                                                                        |=[×]
   [×]===============================[×]
-         ``  ``                            
+                                    
 Author : Buang_idx
 github : https://github.com/BUANG_IDX
 youtbe : Buang_idx
